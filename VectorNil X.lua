@@ -1,15 +1,8 @@
 --[[
 
-ArrayField Interface Suite
-by Meta
-
-Original by Sirius
-
--------------------------------
-Arrays  | Designing + Programming + New Features
+Proggramer= Kaushal Gurung
 
 ]]
-
 
 
 local Release = "Release 2A"
